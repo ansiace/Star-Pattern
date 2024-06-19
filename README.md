@@ -9,3 +9,6 @@ Welcome to the Half Pyramid Star Pattern repository! This repository contains im
 ## Star pattern 3
 day 3: star pattern of day 2 & day 3 are same as half pyramid but only the side is changed from left to right as you can see the code of this.
 
+## Star pattern 4 
+day 4: here we'll upload a full series of star pattern through which your loop statement will very clear, we try to cover all type of patterns asked in interviews. due to fatal error it'll take time but will update you soon.
+
