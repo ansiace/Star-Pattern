@@ -10,11 +10,11 @@ Welcome to the Half Pyramid Star Pattern repository! This repository contains im
 day 3: star pattern of day 2 & day 3 are same as half pyramid but only the side is changed from left to right as you can see the code of this.
 
 ## Star pattern 4 
-day 4:Welcome to the series of Star pattern...here we'll upload a full series of star pattern through which your loop statement will very clear, we try to cover all type of patterns asked in interviews. due to fatal error it'll take time but will update you soon.
+day 4:Welcome to the series of Star pattern...here we'll upload a full series of star pattern through which your loop statement will very clear, we try to cover all type of patterns asked in interviews but due to fatal error it'll take time but will update you soon.
 
-## Star Pattern Repository 5
+## Star Pattern 5
 
-This repository contains various star pattern programs implemented in c programming languages. The goal is to help beginners understand how to create and manipulate star patterns using loops and conditional statements.
+This repository contains various star pattern programs implemented in c++ programming languages. The goal is to help beginners understand how to create and manipulate star patterns using loops and conditional statements.
 
 ## Patterns Included
 
