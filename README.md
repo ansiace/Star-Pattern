@@ -28,3 +28,25 @@ This repository contains various star pattern programs implemented in c++ progra
 ## How to Use
 
 Each pattern is implemented in separate files. You can run them using the respective language's interpreter or compiler.
+
+# Half Pyramid
+int main()
+{
+    for(int i=1;i<=5;i++)
+    {
+        for(int j=1;j<=5;j++)
+        {
+            if(j<=i)
+            {
+                cout<<"*";
+            }
+            else
+            {
+                cout<<" ";
+            }
+        }
+        cout<<endl;
+        
+    }
+    
+}
