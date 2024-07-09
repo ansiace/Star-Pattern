@@ -7,7 +7,7 @@ In this series of Star pattern...here we'll upload a full series of star pattern
 
 This repository contains various star pattern programs implemented in c++ programming languages. The goal is to help beginners understand how to create and manipulate star patterns using loops and conditional statements.
 
-## Patterns Included
+### Some of the following patterns included:
 
 1. Half Pyramid
 2. Full Pyramid
