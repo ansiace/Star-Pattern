@@ -14,6 +14,12 @@ This repository contains various star pattern programs implemented in c++ progra
 3. Inverted Pyramid
 4. Diamond Shape
 5. Right Angle Triangle
+#### Pattern:
+ <div>*</div>
+ <div>**</div>
+ <div>***</div>
+ <div>****</div>
+ <div>*****</div>
 6. Left Angle Triangle
 
 ## How to Use
