@@ -71,9 +71,6 @@ This repository contains various star pattern programs implemented in c++ progra
 * * * * *
 ```
 
-## How to Use
-
-Each pattern is implemented in separate files. You can run them using the respective language's interpreter or compiler.
 
 # Example Half Pyramid
 code:
