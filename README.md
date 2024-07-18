@@ -10,6 +10,15 @@ This repository contains various star pattern programs implemented in c++ progra
 ### Some of the following patterns included:
 
 1. Half Pyramid
+#### Pattern:
+  ```
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+  ```
+
 2. Full Pyramid
   #### Pattern:
     
@@ -20,15 +29,47 @@ This repository contains various star pattern programs implemented in c++ progra
        *********
 
 3. Inverted Pyramid
+#### Pattern:
+```
+    *********
+     *******
+      *****
+       ***
+        *
+```
+
 4. Diamond Shape
+#### Pattern:
+```
+        *
+       ***
+      *****
+     *******
+    *********
+     *******
+      *****
+       ***
+        *
+```
+
 5. Right Angle Triangle
 #### Pattern:
-  <div>*</div>
- <div>**</div>
- <div>***</div>
- <div>****</div>
- <div>*****</div>
+   ```
+    *
+    **
+    ***
+    ****
+    *****
+   ```
 6. Left Angle Triangle
+#### Pattern:
+```
+        *
+      * *
+    * * * 
+  * * * *
+* * * * *
+```
 
 ## How to Use
 
