@@ -74,6 +74,7 @@ This repository contains various star pattern programs implemented in c++ progra
 
 # Example Half Pyramid
 code:
+```
 int main()
 {
     for(int i=1;i<=5;i++)
@@ -94,7 +95,7 @@ int main()
     }
     
 }
-
+```
 ### output:
 <div>⭐</div>
 <div>⭐⭐</div>
