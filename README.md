@@ -3,9 +3,7 @@
 ## Star Pattern 
 Welcome to the Star Pattern repository! This repository contains various star patterns implemented in c++ programming languages. These patterns are commonly used in coding practice and interviews to demonstrate understanding of loops and basic programming constructs.
 
-In this series of Star pattern...here we'll upload a full series of star pattern through which your loop statement will very clear, we try to cover all type of patterns asked in interviews.
-
-This repository contains various star pattern programs implemented in c++ programming languages. The goal is to help beginners understand how to create and manipulate star patterns using loops and conditional statements.
+The goal is to help beginners understand how to create and manipulate star patterns using loops and conditional statements.
 
 ### Some of the following patterns included:
 
