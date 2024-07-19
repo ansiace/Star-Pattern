@@ -83,7 +83,7 @@ int main()
         {
             if(j<=i)
             {
-                cout<<"*";
+                cout<<"⭐";
             }
             else
             {
