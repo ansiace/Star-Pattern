@@ -17,7 +17,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
 
 2. Full Pyramid
   #### Pattern:
-    ```
+```
            *
           ***
          *****
