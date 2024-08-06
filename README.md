@@ -5,7 +5,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
 
 ### Some of the following patterns included:
 
-1. Half Pyramid
+- Half Pyramid
 #### Pattern:
   ```
     *
@@ -15,7 +15,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
     * * * * *
   ```
 
-2. Full Pyramid
+- Full Pyramid
   #### Pattern:
 ```
         *
@@ -24,7 +24,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
      *******
     *********
 ```
-3. Inverted Pyramid
+- Inverted Pyramid
 #### Pattern:
 ```
     *********
@@ -34,7 +34,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
         *
 ```
 
-4. Diamond Shape
+- Diamond Shape
 #### Pattern:
 ```
         *
@@ -48,7 +48,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
         *
 ```
 
-5. Right Angle Triangle
+- Right Angle Triangle
 #### Pattern:
    ```
     *
@@ -57,7 +57,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
     ****
     *****
    ```
-6. Left Angle Triangle
+- Left Angle Triangle
 #### Pattern:
 ```
         *
