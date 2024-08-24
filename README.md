@@ -68,7 +68,7 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
 ```
 
 
-## Example Half Pyramid
+## Example of Half Pyramid
 code:
 ```
 int main()
