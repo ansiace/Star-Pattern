@@ -1,4 +1,4 @@
-// Right Triangle
+// Right angled Triangle
 
 #include<iostream>
 using namespace std;
