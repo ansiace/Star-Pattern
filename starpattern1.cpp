@@ -1,4 +1,4 @@
-// Half pyramid shape 
+
 
 #include<iostream>
 using namespace std;
