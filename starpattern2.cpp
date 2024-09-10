@@ -1,4 +1,4 @@
-//right angled triangle
+
 
 #include<iostream>
 using namespace std;
