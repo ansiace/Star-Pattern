@@ -3,7 +3,7 @@
 ## Star Pattern 
 Welcome to the ⭐ Pattern repository! This repository contains various star patterns implemented in c++ programming languages. These patterns are commonly used in coding practice and interviews to demonstrate understanding of loops.
 
-### Some of the following patterns included:
+### Some of the following patterns included in this series:
 
 - Half Pyramid
 #### Pattern:
