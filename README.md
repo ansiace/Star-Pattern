@@ -59,6 +59,16 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
 ```
 
 
+- Squre Fill Pattern
+#### Pattern:
+```
+* * * *
+* * * *
+* * * *
+* * * *
+```
+
+
 ## Example of Half Pyramid
 code:
 ```
