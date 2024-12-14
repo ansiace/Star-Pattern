@@ -70,8 +70,10 @@ Welcome to the ⭐ Pattern repository! This repository contains various star pat
 
 ## Example of Half Pyramid
 code:
-```
+``` 
 int main()
+int n ;
+cin>>n;
 {
     for(int i=1;i<=5;i++)
     {
