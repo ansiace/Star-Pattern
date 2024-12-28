@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main()
+// without input
 {
     for(int i=1;i<=5;i++)
     {
