@@ -3,7 +3,7 @@ using namespace std;
 int main() {
 
     int i , j , n ;
-    cin>>n;
+    cin>>n; // input number for rows and column 
 
     for ( int i = 1 ; i <= n ; i++ ){
         
