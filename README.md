@@ -100,3 +100,14 @@ cin>>n;
 <div>⭐⭐⭐</div>
 <div>⭐⭐⭐⭐</div>
 <div>⭐⭐⭐⭐⭐</div>
+
+
+## Explore the repository to find more!
+
+### 📧 Contact
+
+If you have any questions or suggestions, feel free to reach out via issues or email.
+
+---
+
+Happy Coding! 😊
