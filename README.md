@@ -69,9 +69,8 @@ This repository contains various star patterns implemented in c++ programming la
 * * * *
 ```
 
-
-## Example of Half Pyramid
-code:
+# Star pattern programs in C++
+## code:
 ``` 
 int main()
 int n ;
