@@ -2,7 +2,7 @@
 using namespace std;
 int main (){
     int i = 4 , j = 7 ;
-    char k ;
+    char k ; // Character Constant
     for ( i = 1 ; i <= 4 ; i++ ){
         k = 'A' ;
         for( j = 1 ; j <= 7 ; j++ ){
